@@ -1,0 +1,23 @@
+@import url('css/nav.css');
+@import url('css/header.css');
+@import url('css/metricas.css');
+@import url('css/talentos.css');
+@import url('css/vagas.css');
+@import url('css/depoimentos.css');
+@import url('css/rodape.css');
+:root{
+    --cinza-escuro: #3A404E;
+    --cinza-claro: #667085;
+    --cinza-maisEscuro: #101828;
+    --vermelho-escuro: #8E2424;
+    --vermelho-transparente:rgba(196, 25, 25, 0.03);
+    --branco: #FFFFFF;
+    --branco-fundo: #F9FAFB;
+    --fonte-principal: 'Inter';
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    font-family: var(--fonte-principal);
+}

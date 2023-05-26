@@ -1,0 +1,57 @@
+.depoimentos{
+    padding: 5em 6em;
+}
+
+.depoimentos__container{
+    background: var(--vermelho-transparente);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+    padding: 4em;
+}
+
+.depoimentos__aboutUs{
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--vermelho-escuro);
+}
+
+.depoimentos__texto{
+    font-size: 36px;
+    font-weight: 500;
+
+    margin-top: 0.5em;
+}
+
+.depoimentos__desenvolvedora{
+    margin-top: 2em;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.depoimentos__desenvolvedora_imagem{
+    width: 40%;
+}
+
+.depoimentos__desenvolvedora__nome{
+    font-size: 16px;
+    font-weight: 500;
+    
+    color:var(--cinza-maisEscuro);
+
+    margin-top: 1em;
+}
+
+.depoimentos__desenvolvedora_cargo{
+    font-size: 14px;
+    font-weight: 400;
+    
+    color: var(--cinza-claro);
+
+    margin: 1em 0;
+}
