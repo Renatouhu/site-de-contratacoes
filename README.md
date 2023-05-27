@@ -1,5 +1,5 @@
 # 7DaysofCode HTML/CSS
-[![NPM](https://img.shields.io/github/license/Renatouhu/7DaysofCode-HMTL-CSS)](https://github.com/Renatouhu/site-de-contratacoes/blob/main/LICENSE)
+[![NPM](https://img.shields.io/github/license/Renatouhu/site-de-contratacoes)](https://github.com/Renatouhu/site-de-contratacoes/blob/main/LICENSE)
 ## Sobre o Projeto
 Site sobre Contratações inspirado no projeto do 7DaysofCode utilizando HMTL, CSS e Javascript.
 
