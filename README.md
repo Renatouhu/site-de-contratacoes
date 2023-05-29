@@ -1,3 +1,4 @@
+<img src="https://github.com/Renatouhu/Assets/blob/main/site-de-contratacoes/contratacoes-banner.png">
 # 7DaysofCode HTML/CSS
 [![NPM](https://img.shields.io/github/license/Renatouhu/site-de-contratacoes)](https://github.com/Renatouhu/site-de-contratacoes/blob/main/LICENSE)
 ## Sobre o Projeto
