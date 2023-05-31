@@ -2,7 +2,7 @@
     <img width="70%" src="https://github.com/Renatouhu/Assets/blob/main/site-de-contratacoes/contratacoes-banner.png">
 </p>
 
-# 7DaysofCode HTML/CSS
+# OptimusTech (7DaysofCode HTML/CSS)
 ## Sobre o Projeto
 Lading Page sobre Contratações inspirado no projeto do 7DaysofCode utilizando conceitos como: Flex-box, Variáveis no CSS e Tags Semânticas
 
