@@ -18,5 +18,11 @@ os profissionais mais capacitados para a nossa equipe.
 ~~~
 
 # Autor
-Renato Pereira da Silva
-LinkedIn(https://www.linkedin.com/in/renato-pereira-da-silva-541701245/)
+
+<img style="border-radius: 50%;" width="100px" src="https://avatars.githubusercontent.com/u/98525200?s=400&u=f8e6816fad9bbadcba451a4f6c545565f2b79674&v=4">
+
+Feito por Renato Pereira da Silva durante o projeto 7DaysOfCode
+
+### Contato
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-pereira-da-silva-541701245/)](https://www.linkedin.com/in/renato-pereira-da-silva-541701245/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/21995773/renato)](https://stackoverflow.com/users/21995773/renato)
