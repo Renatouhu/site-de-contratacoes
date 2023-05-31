@@ -6,11 +6,7 @@
 <h4 align="center">✅ Projeto Finalizado</h4> 
 
 ## Sobre o Projeto
-Lading Page sobre Contratações inspirado no projeto do 7DaysofCode utilizando conceitos como: Flex-box, Variáveis no CSS e Tags Semânticas
-
-### Sobre a Aplicação
-Um site de Contratações para vagas no ramo da Tecnologia, com diversas informações de estatíticas e da empresa, para conseguir atrair 
-os profissionais mais capacitados para a nossa equipe.
+Lading Page sobre Contratações inspirado no projeto do 7DaysofCode utilizando conceitos como: Flex-box, Variáveis no CSS e Tags Semânticas.
 
 #### Para importar o projeto no seu repositorio local
 ~~~git 
